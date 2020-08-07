@@ -31,7 +31,7 @@ console.log(myTest);
 /* #5 */
 var myPi = Math.PI;
 console.log(myPi);
-var myRound = Math.round(89.279);
+ 
 console.log(myRound);
 var myRandom = Math.random()*10;
 console.log(myRandom);
